@@ -3,7 +3,11 @@ New, Delete, Member Access ->
 
 
 Objectives:
-- 
+- Create pointer type class
+- Use 'new' to allocate memeory
+- Use '->' to access class' members/methods
+- Use 'delete' to free allocated memory
+- Capitalize name of food 
 
 
 Example Output
